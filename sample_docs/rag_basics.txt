@@ -1,0 +1,19 @@
+Retrieval-Augmented Generation (RAG) combines a retriever with a language model so that answers are grounded in external documents instead of only the model's memory.
+
+Chunking splits documents into passages of a few hundred characters with some overlap, so that context at the boundaries is not lost.
+
+Embeddings map text to dense vectors. Sentences with similar meaning land close together in vector space, and closeness is usually measured with cosine similarity.
+
+FAISS is a library from Meta that performs fast similarity search over large collections of dense vectors.
+
+TF-IDF scores a word by how often it appears in a passage and how rare it is across all passages, which makes it strong at exact keyword matches.
+
+Hybrid search merges the dense ranking and the keyword ranking. Reciprocal Rank Fusion adds 1 divided by (60 plus rank) for each ranking and sorts by the total.
+
+A cross-encoder re-ranker reads the question and a passage together and returns a more accurate relevance score, but it is slower than plain vector search.
+
+Hallucination happens when a language model states facts that the provided context does not support. Grounded prompts and refusal thresholds reduce it.
+
+Recall at k measures the share of questions where a correct passage appears in the top k results. Mean reciprocal rank rewards placing the correct passage earlier in the list.
+
+Streamlit is a Python framework for building web apps with very little code, and it can be deployed for free on Streamlit Community Cloud.

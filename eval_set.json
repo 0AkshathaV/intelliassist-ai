@@ -1,0 +1,182 @@
+[
+ {
+  "question": "What is RAG?",
+  "keywords": [
+   "retriever with a language model"
+  ]
+ },
+ {
+  "question": "Why do chunks overlap?",
+  "keywords": [
+   "not lost"
+  ]
+ },
+ {
+  "question": "How is closeness between embeddings measured?",
+  "keywords": [
+   "cosine similarity"
+  ]
+ },
+ {
+  "question": "Which library does fast vector similarity search?",
+  "keywords": [
+   "FAISS"
+  ]
+ },
+ {
+  "question": "Why is TF-IDF good at exact matches?",
+  "keywords": [
+   "across all passages"
+  ]
+ },
+ {
+  "question": "How does reciprocal rank fusion compute its score?",
+  "keywords": [
+   "1 divided by"
+  ]
+ },
+ {
+  "question": "What does a cross-encoder do differently?",
+  "keywords": [
+   "together"
+  ]
+ },
+ {
+  "question": "How can hallucination be reduced?",
+  "keywords": [
+   "refusal thresholds"
+  ]
+ },
+ {
+  "question": "What does mean reciprocal rank reward?",
+  "keywords": [
+   "earlier"
+  ]
+ },
+ {
+  "question": "Where can a Streamlit app be hosted for free?",
+  "keywords": [
+   "Community Cloud"
+  ]
+ },
+ {
+  "question": "Who coined the term machine learning and when?",
+  "keywords": [
+   "Arthur Samuel"
+  ]
+ },
+ {
+  "question": "What train and test split is typically used?",
+  "keywords": [
+   "80 percent"
+  ]
+ },
+ {
+  "question": "What does the K-means algorithm do?",
+  "keywords": [
+   "minimising the distance"
+  ]
+ },
+ {
+  "question": "What is PCA used for?",
+  "keywords": [
+   "principal component analysis"
+  ]
+ },
+ {
+  "question": "How can overfitting be reduced?",
+  "keywords": [
+   "early stopping"
+  ]
+ },
+ {
+  "question": "What is the F1 score?",
+  "keywords": [
+   "harmonic mean"
+  ]
+ },
+ {
+  "question": "Why can accuracy be misleading?",
+  "keywords": [
+   "99 percent"
+  ]
+ },
+ {
+  "question": "What does the learning rate control?",
+  "keywords": [
+   "size of each step"
+  ]
+ },
+ {
+  "question": "Which paper introduced the Transformer?",
+  "keywords": [
+   "Attention Is All You Need"
+  ]
+ },
+ {
+  "question": "How does BERT read text?",
+  "keywords": [
+   "both directions"
+  ]
+ },
+ {
+  "question": "What is the minimum attendance to sit for exams?",
+  "keywords": [
+   "75 percent"
+  ]
+ },
+ {
+  "question": "What is the condonation fee per subject?",
+  "keywords": [
+   "Rs. 500"
+  ]
+ },
+ {
+  "question": "How are the 40 internal marks divided?",
+  "keywords": [
+   "two mid-semester tests"
+  ]
+ },
+ {
+  "question": "What is the minimum end-semester mark needed to pass?",
+  "keywords": [
+   "21 marks"
+  ]
+ },
+ {
+  "question": "How early must students arrive for the exam?",
+  "keywords": [
+   "20 minutes"
+  ]
+ },
+ {
+  "question": "What is the penalty for using unfair means?",
+  "keywords": [
+   "suspension for one full semester"
+  ]
+ },
+ {
+  "question": "What is the re-evaluation fee per paper?",
+  "keywords": [
+   "Rs. 750"
+  ]
+ },
+ {
+  "question": "How many grade points does an A+ carry?",
+  "keywords": [
+   "A+ (80 to 89)"
+  ]
+ },
+ {
+  "question": "How many attempts are allowed to clear a subject?",
+  "keywords": [
+   "maximum of 3 attempts"
+  ]
+ },
+ {
+  "question": "What is the maximum duration of the B.Tech programme?",
+  "keywords": [
+   "6 years"
+  ]
+ }
+]

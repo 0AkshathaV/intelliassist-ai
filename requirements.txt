@@ -1,0 +1,15 @@
+streamlit>=1.40
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+transformers
+scikit-learn
+numpy
+pandas
+pypdf
+python-docx
+google-genai
+tabulate

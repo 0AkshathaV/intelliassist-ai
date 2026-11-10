@@ -1,0 +1,5 @@
+Method,Recall@1,Recall@3,Recall@5,MRR,Avg latency (ms)
+tfidf,0.933,1.0,1.0,0.961,31.3
+dense,0.9,1.0,1.0,0.939,33.6
+hybrid,1.0,1.0,1.0,1.0,26.7
+hybrid+rerank,1.0,1.0,1.0,1.0,1389.2
