@@ -3,7 +3,9 @@
 Upload PDF, TXT or DOCX files and ask questions about them. Every answer shows the exact passages it came from, with page numbers and a confidence score, and the app declines to answer when the information is not in your documents.
 
 **Author:** Akshatha V | Amity University | B-Tech CSE (AI&ML)
+
 **Project:** Artificial Intelligence Major Project, LaunchED Global
+
 **Demo video:** [add Google Drive link]
 
 ## Features
